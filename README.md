@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in CSS: issues with the `calc()` function. Incorrect spacing and unbalanced parentheses can lead to unexpected rendering. The `bug.css` file contains the erroneous code.  The `bugSolution.css` file provides the corrected version.
