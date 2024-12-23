@@ -1,0 +1,1 @@
+Ensure that all parentheses in `calc()` are balanced, and there are no unnecessary spaces between operators and operands. Correct example: `width: calc(100% - 20px);` Incorrect example: `width: calc(100%  - 20px);` or `width: calc( (100% - 20px) );` 
